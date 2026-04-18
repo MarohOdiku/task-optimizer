@@ -1,0 +1,42 @@
+/* [project]/apps/frontend/app/css/globals.css [app-client] (css) */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  inset: 0;
+}
+
+main {
+  text-align: center;
+  width: 80%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+a, a:hover, a:active, a:visited, a:focus {
+  text-decoration: none !important;
+}
+
+#bg-light {
+  background-color: #f8f8ff !important;
+}
+
+#bg-dark {
+  background-color: #161616 !important;
+}
+
+/*# sourceMappingURL=apps_frontend_app_css_globals_css_bad6b30c._.single.css.map*/

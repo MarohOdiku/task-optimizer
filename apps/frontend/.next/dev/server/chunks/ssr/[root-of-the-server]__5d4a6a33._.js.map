@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/marohodiku-joshua/Documents/task-optimizer/apps/frontend/app/page.tsx"],"sourcesContent":["\nexport default function Home() {\n\n\n  return (\n     <main>\n      <h1 className=\"text-4xl font-bold text-center mt-10\">Dashboard</h1>\n     </main>\n  );\n} "],"names":[],"mappings":";;;;;;AACe,SAAS;IAGtB,qBACG,8OAAC;kBACA,cAAA,8OAAC;YAAG,WAAU;sBAAuC;;;;;;;;;;;AAG3D"}}]
+}

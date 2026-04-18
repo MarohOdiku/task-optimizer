@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/apps/frontend/app/css/globals.css"],"sourcesContent":["\n*{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nhtml{\n  scroll-behavior: smooth;\n  overflow-x: hidden;\n}\n\nbody {\n  font-family: Arial, Helvetica, sans-serif;\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  height: 100%;\n}\n\nmain {\n  width: 80%;\n  height: 100%;\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  right: 0;\n  text-align: center; \n\n}\n\n\na, a:hover, a:active, a:visited, a:focus{\n  /* color: #333 !important; */\n  text-decoration: none !important;\n}\n\n/* Theme */\n#bg-light{\n  background-color: ghostwhite !important;\n}\n\n#bg-dark{\n  background-color: #161616 !important;\n}\n\n\n\n\n\n\n"],"names":[],"mappings":"AACA;;;;;;AAMA;;;;;AAKA;;;;;;;AAUA;;;;;;;;;;AAYA;;;;AAMA;;;;AAIA"}}]
+}
